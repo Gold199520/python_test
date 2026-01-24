@@ -5,3 +5,4 @@ while i < 999:
         print(i, end=" ")
 
 print("Hello world!")
+print("Hello world!")
