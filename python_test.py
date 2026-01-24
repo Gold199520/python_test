@@ -121,3 +121,5 @@ if __name__ == "__main__":
         print(log_content)
     except FileNotFoundError:
         print("Файл лога не найден")
+
+print("Hello world!")
